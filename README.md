@@ -1,6 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning natural language processing.<br/>
-⛳ my blog can be visited at https://dp0d.cn
+💘 My interest is at natural language processing.<br/>
+⛳ My blog can be visited at https://dp0d.cn
 
 ### About me
 📞 I’m seeking a job about nlp in the feature.<br/>
