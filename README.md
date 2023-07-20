@@ -3,5 +3,5 @@
 ⛳ My blog can be visited at https://dp0d.cn
 
 ### About me
-📞 I’m seeking a job in the future.<br/>
+📞 I’m seeking a job.<br/>
 📫 How to reach me: draftpaperofgod@gmail.com
